@@ -1,8 +1,8 @@
-# livepeerjs-player-filters
+# livepeerjs-ar
 
-> Made with create-react-library
+> An sdk to create virtual filters and background while streaming with livepeer Broadcast
 
-[![NPM](https://img.shields.io/npm/v/livepeerjs-player-filters.svg)](https://www.npmjs.com/package/livepeerjs-player-filters) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 
 ## Install
 
@@ -25,6 +25,6 @@ class Example extends Component {
 }
 ```
 
-## License
 
-MIT © [nescope](https://github.com/nescope)
+
+
