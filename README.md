@@ -1,4 +1,4 @@
-# livepeerjs-ar
+# livepeerjs-ar SDK
 
 > An sdk to create virtual filters and background while streaming with livepeer Broadcast
 
